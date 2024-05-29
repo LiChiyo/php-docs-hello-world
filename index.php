@@ -7,7 +7,7 @@ echo "Hello World!"; ?>
 <head>
     <script>
         function goHome() {
-          header('Location: https://my-first-app-11.azurewebsites.net/home.php');
+            window.open('https://my-first-app-11.azurewebsites.net/home.php')
         }
     </script>
 </head>
