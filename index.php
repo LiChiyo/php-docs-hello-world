@@ -1,3 +1,4 @@
 <?php
 
-echo "Hello World!";
+echo "Hello World!"; ?>
+<input type="button" value="ログイン" onclick=""/>
